@@ -23,7 +23,7 @@ var solutions={
       "Von't Hoff Factor":`introduced a factor i (van’t Hoff factor), to account for the extent of dissociation or association.<br><br>van’t Hoff factor is the ratio of the observed (experimental) value of a colligative property to the normal (calculated) value of the same property.<pre><span style='border-bottom:2px solid'>experimental colligative property</span>
 calculated colligative property
       </pre>`,
-      "Modified expressions for colligative properties":"Relative Lowering Of Vapour pressure -:<b><sup>P⁰-P</sup>/<sub>P⁰</sub>=iχ<sub>solute</sub></b><br>Osmotic pressure -:  <b>π=iCRT</b><br>Elevation In BP -: <b>∆T<sub>b</sub>=K<sub>b</sub>m</b><br>Depression In F.P -:  <b>∆T<sub>f</sub>=K<sub>f</sub>m</b>"
+      "Modified expressions for colligative properties":"Relative Lowering Of Vapour pressure -:<br><b><sup>P⁰-P</sup>/<sub>P⁰</sub>=iχ<sub>solute</sub></b><br>Osmotic pressure -:  <b>π=iCRT</b><br>Elevation In BP -: <b>∆T<sub>b</sub>=K<sub>b</sub>m</b><br>Depression In F.P -:  <b>∆T<sub>f</sub>=K<sub>f</sub>m</b>"
    },
    "Glossary":{
       "Concentration Term":"The relative amount of solute in binary solution can be expressed by any of the following terms: Mass percentage, volume percentage, parts per million (ppm), Molarity (M), Molality (m), Normality (n) and Mole fraction."+` <table border='2'>
