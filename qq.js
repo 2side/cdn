@@ -57,13 +57,9 @@ var qq={
         "chemical-kinetics":[
             {
        "que":"The rate of a chemical reaction tells us about",
-       "option":["","","",""],
-       "crt":0
-   }  , {
-       "que":"",
        "option":["the reactants taking part in reaction","the products formed in the reaction","how slow or fast the reaction is taking place","none of the above"],
        "crt":2
-   }  , {
+   },{
        "que":"In the rate equation, when the concentration of reactants is unity then rate is equal to",
        "option":["specific rate constant","average rate constant","instantaneous rate constant","None of the above"],
        "crt":0
