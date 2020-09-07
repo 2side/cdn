@@ -93,7 +93,7 @@ var qq={
        "crt":1
    } ,  {
        "que":"In a reversible reaction the energy of activation of the forward reaction is 50 kcal. The energy of activation for the reverse reaction will be",
-       "option":["< 50 kcal","either greater than or less than 50 kcal","= 50 kcal","> 50 kcal"],
+       "option":["< 50 kcal","either greater than or less than 50 kcal","= 50 kcal",">50 kcal"],
        "crt":1
    }
             ]
